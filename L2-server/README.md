@@ -21,3 +21,8 @@ systemctl status nginx
 ```bash
 sudo apt update
 sudo apt install nginx -y
+
+### PostgreSQLインストール
+sudo apt install postgresql -y
+sudo -u postgres psql
+

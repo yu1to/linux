@@ -17,7 +17,7 @@ systemctl status nginx
 
 ## ■ Webサーバ（Nginx）
 
-### インストール
+### Nginxインストール
 ```bash
 sudo apt update
 sudo apt install nginx -y
